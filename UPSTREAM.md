@@ -27,3 +27,5 @@ A review of the upstream manifests on November 18, 2026 found three image refere
 | The upstream Dockerfile references the Python 3.12 slim Bookworm base by tag. | [Dockerfile, line 13](https://github.com/RuoJi6/ARTEX/blob/6997a4661921395072290becc50380db8dacb04e/Dockerfile#L13) |
 
 **Scope.** This was a source-manifest review. Registry image contents, signatures, and correspondence between a published binary and its source were outside its scope. The finding concerns reproducibility and makes no determination about the integrity of any image.
+
+On November 18, 2026, Pruent published a review-focused README and preserved the upstream README byte-for-byte in [README.upstream.md](README.upstream.md).
