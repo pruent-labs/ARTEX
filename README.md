@@ -6,7 +6,7 @@ Pruent reviewed the container image references in **RuoJi6/ARTEX at commit `6997
 
 ## Managed ARTEX workspace
 
-Pruent offers a private ARTEX workspace for reviewing code and security findings, with assisted onboarding during private preview. The plan costs $100 USD per month plus applicable tax and includes one named user, one private workspace, 10 GB of persistent storage, and standard email support. You bring your own model API key and pay your model provider directly. Billing starts after you confirm workspace access. [Pricing](https://pruent.com/pricing) · [Request a workspace](https://pruent.com/contact)
+Pruent offers a private ARTEX workspace for reviewing code and security findings, with assisted onboarding. The plan costs $100 USD per month plus applicable tax and includes one named user, one private workspace, 10 GB of persistent storage, and standard email support. You bring your own model API key and pay your model provider directly. Billing starts after you confirm workspace access. [Pricing](https://pruent.com/pricing) · [Request a workspace](https://pruent.com/contact)
 
 ## Container image review
 
