@@ -1,3 +1,5 @@
+<p><img src="assets/pruent-key.png" alt="Pruent" width="72" height="72"></p>
+
 # ARTEX source review by Pruent
 
 Pruent reviewed the container image references in **RuoJi6/ARTEX at commit `6997a46`**. We wanted to answer a question that comes up when reviewing a deployment: if two teams use the same source revision, can they establish that they ran the same image?
