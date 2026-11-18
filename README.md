@@ -20,4 +20,4 @@ The commit lets another reviewer reproduce this inspection of the manifests. Est
 
 Autumn-27 and the ARTEX contributors created the upstream project. RuoJi6 maintains the source revision reviewed here. Pruent wrote the review and maintains this copy. Send corrections about the review to [dev@pruent.com](mailto:dev@pruent.com).
 
-[Original upstream README / 上游中文说明](README.upstream.md) · [License included with the source](LICENSE)
+[Original upstream README (Chinese)](README.upstream.md) · [License included with the source](LICENSE)
