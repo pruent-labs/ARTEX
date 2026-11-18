@@ -1,4 +1,4 @@
-**Pruent repository note / 来源说明** — This repository preserves the ARTEX source maintained by RuoJi6 and the original contributors. See [upstream provenance and Pruent changes](UPSTREAM.md). The release and demo references below belong to upstream.
+**Pruent repository note / 来源说明** — This repository preserves the ARTEX source maintained by RuoJi6 and the original contributors. See [upstream provenance and Pruent changes](UPSTREAM.md). [Pruent’s source review](https://pruent.com/about#source-review) explains the distinction between the source revision and container image identity. The release and demo references below belong to upstream.
 
 <div align="center">
 
