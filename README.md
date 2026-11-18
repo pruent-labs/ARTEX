@@ -1,3 +1,5 @@
+**Pruent repository note / 来源说明** — This repository preserves the ARTEX source maintained by RuoJi6 and the original contributors. See [upstream provenance and Pruent changes](UPSTREAM.md). The release and demo references below belong to upstream.
+
 <div align="center">
 
 # ARTEX
